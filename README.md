@@ -1,0 +1,1 @@
+Projeto realizado durante o evento do Dev em Dobro, no qual desenvolvemos uma seleção de personagens dos X-Men. Utilizando uma combinação de tecnologias web, incluindo HTML, CSS e JavaScript, criamos uma plataforma interativa que permitia aos usuários explorarem e escolher entre uma variedade de personagens da série X-Men.
